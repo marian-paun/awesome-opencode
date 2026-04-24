@@ -12,7 +12,8 @@ tags:
   - powershell
   - windows
 installation: |
-  Download the entire `server-manager/` folder into your skills directory:
-  - Global: `~/.config/opencode/skills/server-manager/`
-  - Project: `.opencode/skills/server-manager/` in your project root
+  Download the entire `server-manager/` folder into your AI coding tool's skills directory:
+  - OpenCode: `~/.config/opencode/skills/server-manager/`
+  - Claude Code: `~/.claude/skills/server-manager/`
+  - Project-level: `.opencode/skills/` or `.claude/skills/` in your project root
 homepage: https://github.com/workdocyeye/server-manager
