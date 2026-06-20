@@ -1039,6 +1039,15 @@ Also available for bat and Ghostty in the same repository.
 </details>
 
 <details>
+  <summary><b>Comfanion Workflow</b> <img src="https://badgen.net/github/stars/Comfanion/workflow" height="14"/> - <i>AI-assisted development workflow with agents, skills, and semantic search</i></summary>
+  <blockquote>
+    Complete workflow system for AI-assisted development. Includes specialized agents (analyst, PM, architect, developer), reusable skills, slash commands, semantic code search with local vectorizer, and sprint management with Jira integration.
+    <br><br>
+    <a href="https://github.com/Comfanion/workflow">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Cupcake</b> <img src="https://badgen.net/github/stars/eqtylab/cupcake" height="14"/> - <i>Policy enforcement layer</i></summary>
   <blockquote>
     A native policy-layer for AI coding agents built on OPA/Rego with native OpenCode plugin support.
