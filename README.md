@@ -404,6 +404,15 @@
 </details>
 
 <details>
+  <summary><b>OpenCode Mission Control</b> <img src="https://badgen.net/github/stars/nigel-dev/opencode-mission-control" height="14"/> - <i>Command center for parallel agents — worktree isolation, DAG plans, merge train, PRs</i></summary>
+  <blockquote>
+    Orchestrates parallel OpenCode agents in tmux-isolated git worktrees with live inspection (capture/attach/diff), a dashboard overview, agent status reporting, and in-chat notifications. Supports DAG-based plans with autopilot/copilot/supervisor modes and a merge train with test gating and automatic rollback.
+    <br><br>
+    <a href="https://github.com/nigel-dev/opencode-mission-control">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Opencode Notify</b> <img src="https://badgen.net/github/stars/kdcokenny/opencode-notify" height="14"/> - <i>Native OS notifications</i></summary>
   <blockquote>
     Native OS notifications for OpenCode - know when tasks complete.
@@ -760,6 +769,15 @@
     Swarm plugin for opencode enabling swarm-based agent coordination.
     <br><br>
     <a href="https://github.com/joelhooks/opencode-swarm-plugin">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>System Prompt Logger</b> <img src="https://badgen.net/github/stars/tlinhart/opencode-system-prompt-logger" height="14"/> - <i>System prompt logger</i></summary>
+  <blockquote>
+    OpenCode plugin that intercepts the system prompt before it's sent to the LLM and logs it.
+    <br><br>
+    <a href="https://github.com/tlinhart/opencode-system-prompt-logger">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 

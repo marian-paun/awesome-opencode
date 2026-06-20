@@ -542,6 +542,18 @@
     "tags": []
   },
   {
+    "productId": "opencode-mission-control",
+    "type": "plugins",
+    "displayName": "OpenCode Mission Control",
+    "repoUrl": "https://github.com/nigel-dev/opencode-mission-control",
+    "tagline": "Command center for parallel agents — worktree isolation, DAG plans, merge train, PRs",
+    "description": "Orchestrates parallel OpenCode agents in tmux-isolated git worktrees with live inspection (capture/attach/diff), a dashboard overview, agent status reporting, and in-chat notifications. Supports DAG-based plans with autopilot/copilot/supervisor modes and a merge train with test gating and automatic rollback.",
+    "scope": [
+      "global"
+    ],
+    "tags": []
+  },
+  {
     "productId": "opencode-mystatus",
     "type": "plugins",
     "displayName": "opencode-mystatus",
@@ -740,6 +752,18 @@
     "repoUrl": "https://github.com/iHildy/opencode-synced",
     "tagline": "Sync configs across machines",
     "description": "Enables syncing global opencode configurations across machines with public/private visibility options.",
+    "scope": [
+      "global"
+    ],
+    "tags": []
+  },
+  {
+    "productId": "opencode-system-prompt-logger",
+    "type": "plugins",
+    "displayName": "System Prompt Logger",
+    "repoUrl": "https://github.com/tlinhart/opencode-system-prompt-logger",
+    "tagline": "System prompt logger",
+    "description": "OpenCode plugin that intercepts the system prompt before it's sent to the LLM and logs it.",
     "scope": [
       "global"
     ],
