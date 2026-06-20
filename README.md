@@ -1213,6 +1213,16 @@ Also available for bat and Ghostty in the same repository.
 </details>
 
 <details>
+  <summary><b>jailoc</b> <img src="https://badgen.net/github/stars/seznam/jailoc" height="14"/> - <i>Sandboxed Docker environments for OpenCode agents</i></summary>
+  <blockquote>
+    CLI tool that wraps OpenCode agents in isolated Docker Compose environments with file isolation (bind-mounted workspaces only), network isolation (private subnets blocked by default with host allowlisting), and a per-workspace DinD sidecar. Zero config to start.
+
+    <br><br>
+    <a href="https://github.com/seznam/jailoc">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Kimaki</b> <img src="https://badgen.net/github/stars/remorses/kimaki" height="14"/> - <i>Discord bot controller</i></summary>
   <blockquote>
     A Discord bot to control opencode sessions on any computer via Discord.
