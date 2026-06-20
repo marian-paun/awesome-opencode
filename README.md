@@ -1267,6 +1267,15 @@ Also available for bat and Ghostty in the same repository.
 <br>
 
 <details>
+  <summary><b>Akephalos</b> <img src="https://badgen.net/github/stars/sunnja69/akephalos" height="14"/> - <i>Local-first markdown passport for portable agent context and memory</i></summary>
+  <blockquote>
+    A local-first, markdown-first `.akephalos` passport for portable agent preferences, tool notes, rules, project context, and durable memories. It uses plain files and Git so MCP-capable coding-agent workflows can inspect and carry context across tools and machines without hosted sync.
+    <br><br>
+    <a href="https://github.com/sunnja69/akephalos">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Debug Log to Text File</b> - <i>Troubleshooting guide</i></summary>
   <blockquote>
     How to output a debug log from opencode to a text file for troubleshooting.
