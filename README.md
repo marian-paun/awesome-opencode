@@ -834,6 +834,15 @@ Also available for bat and Ghostty in the same repository.
   </blockquote>
 </details>
 
+<details>
+  <summary><b>VS Code Themes</b> <img src="https://badgen.net/github/stars/regen45t/opencode-vscode-themes" height="14"/> - <i>Ports of all built-in VS Code themes (Modern, Plus, VS, High Contrast).</i></summary>
+  <blockquote>
+    OpenCode ports of all built-in VS Code themes from the vscode.theme-defaults extension. Includes vscode-modern, vscode-plus, vscode-vs, and vscode-hc with automatic dark/light variant selection. One-line install script included.
+    <br><br>
+    <a href="https://github.com/regen45t/opencode-vscode-themes">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
 <br>
 <a href="https://github.com/awesome-opencode/awesome-opencode/blob/main/contributing.md"><b>➕ Add a Theme via PR</b></a>
 </details>
@@ -1138,6 +1147,15 @@ Also available for bat and Ghostty in the same repository.
 </details>
 
 <details>
+  <summary><b>opencode-kanban</b> <img src="https://badgen.net/github/stars/qrafty-ai/opencode-kanban" height="14"/> - <i>Kanban-style task management for opencode</i></summary>
+  <blockquote>
+    Kanban tool that allows you to stay in terminal.
+    <br><br>
+    <a href="https://github.com/qrafty-ai/opencode-kanban">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>OpenSpec</b> <img src="https://badgen.net/github/stars/Fission-AI/OpenSpec" height="14"/> - <i>Spec-driven development</i></summary>
   <blockquote>
     Spec-driven development with opencode - structured specification management.
@@ -1152,6 +1170,15 @@ Also available for bat and Ghostty in the same repository.
     Open-source alternative to Claude Cowork built on top of OpenCode. Provides a polished desktop UI for sessions, skills, plugins, and templates.
     <br><br>
     <a href="https://github.com/different-ai/openwork">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>P4OC (Pocket for OpenCode)</b> <img src="https://badgen.net/github/stars/theblazehen/P4OC" height="14"/> - <i>Android client for OpenCode</i></summary>
+  <blockquote>
+    Native Android app for controlling OpenCode from your phone. Chat with AI, manage sessions, browse files with syntax highlighting, view diffs, and use an embedded terminal — all styled with a terminal UI aesthetic. Available on Google Play.
+    <br><br>
+    <a href="https://github.com/theblazehen/P4OC">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
@@ -1218,6 +1245,15 @@ Also available for bat and Ghostty in the same repository.
     A simple command-line tool that turns your CLI tools, like opencode, into web applications.
     <br><br>
     <a href="https://github.com/sorenisanerd/gotty">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>kickstart.opencode</b> <img src="https://badgen.net/github/stars/orionpax1997/kickstart.opencode" height="14"/> - <i>A heavily commented OpenCode starter config that teaches you what everything does.</i></summary>
+  <blockquote>
+    Inspired by kickstart.nvim. A minimal, well-commented OpenCode configuration designed as a starting point, not a framework. Every decision is explained. Includes free-only models and MCPs, a plan/execute workflow with interview-style clarification, and a careful agent for supervised AI execution. Read it, understand it, make it yours.
+    <br><br>
+    <a href="https://github.com/orionpax1997/kickstart.opencode">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 

@@ -1263,6 +1263,18 @@
     "tags": []
   },
   {
+    "productId": "opencode-kanban",
+    "type": "projects",
+    "displayName": "opencode-kanban",
+    "repoUrl": "https://github.com/qrafty-ai/opencode-kanban",
+    "tagline": "Kanban-style task management for opencode",
+    "description": "Kanban tool that allows you to stay in terminal.",
+    "scope": [
+      "global"
+    ],
+    "tags": []
+  },
+  {
     "productId": "opencode-neovim",
     "type": "projects",
     "displayName": "Opencode Neovim",
@@ -1365,6 +1377,18 @@
     "homepageUrl": "https://openwork.software/"
   },
   {
+    "productId": "p4oc",
+    "type": "projects",
+    "displayName": "P4OC (Pocket for OpenCode)",
+    "repoUrl": "https://github.com/theblazehen/P4OC",
+    "tagline": "Android client for OpenCode",
+    "description": "Native Android app for controlling OpenCode from your phone. Chat with AI, manage sessions, browse files with syntax highlighting, view diffs, and use an embedded terminal — all styled with a terminal UI aesthetic. Available on Google Play.",
+    "scope": [
+      "global"
+    ],
+    "tags": []
+  },
+  {
     "productId": "qwen-code-oai-proxy",
     "type": "projects",
     "displayName": "Qwen Code OAI Proxy",
@@ -1446,6 +1470,18 @@
     "tags": []
   },
   {
+    "productId": "kickstart-opencode",
+    "type": "resources",
+    "displayName": "kickstart.opencode",
+    "repoUrl": "https://github.com/orionpax1997/kickstart.opencode",
+    "tagline": "A heavily commented OpenCode starter config that teaches you what everything does.",
+    "description": "Inspired by kickstart.nvim. A minimal, well-commented OpenCode configuration designed as a starting point, not a framework. Every decision is explained. Includes free-only models and MCPs, a plan/execute workflow with interview-style clarification, and a careful agent for supervised AI execution. Read it, understand it, make it yours.",
+    "scope": [
+      "global"
+    ],
+    "tags": []
+  },
+  {
     "productId": "opencode-config-starter",
     "type": "resources",
     "displayName": "Opencode Config Starter",
@@ -1512,6 +1548,18 @@
     "repoUrl": "https://github.com/fatihtoprakk/opencode-light-themes",
     "tagline": "A curated collection of 21 light color themes for OpenCode",
     "description": "The largest collection of light themes for OpenCode. Includes 21 carefully crafted light themes converted from popular VS Code themes — scaefy-light (Atom One Light), Solarized Light, Vivid Light, Coffee Cream, GitHub Light, Quiet Light, Bluloco Light, Brackets Light Pro, NetBeans Light, Ysgrifennwr, Hop Light, GitHub Plus, Classic Light, HC Flurry, all Milkshake variants, and more. Bilingual (EN/TR) documentation and one-command install script included.",
+    "scope": [
+      "global"
+    ],
+    "tags": []
+  },
+  {
+    "productId": "opencode-vscode-themes",
+    "type": "themes",
+    "displayName": "VS Code Themes",
+    "repoUrl": "https://github.com/regen45t/opencode-vscode-themes",
+    "tagline": "Ports of all built-in VS Code themes (Modern, Plus, VS, High Contrast).",
+    "description": "OpenCode ports of all built-in VS Code themes from the vscode.theme-defaults extension. Includes vscode-modern, vscode-plus, vscode-vs, and vscode-hc with automatic dark/light variant selection. One-line install script included.",
     "scope": [
       "global"
     ],
