@@ -224,11 +224,29 @@
 </details>
 
 <details>
+  <summary><b>Dodo Payments</b> <img src="https://badgen.net/github/stars/dodopayments/dodo-agent-plugin" height="14"/> - <i>Payments, subscriptions, webhooks, and billing for OpenCode agents</i></summary>
+  <blockquote>
+    Official Dodo Payments plugin for OpenCode (also Claude Code, Codex, Cursor). Bundles eight integration skills (checkout, subscriptions, webhooks, usage-based billing, credits, license keys, BillingSDK, best practices) plus two MCP servers — a live API server with browser OAuth and a documentation search server. Distributed via npm as @dodopayments/opencode-plugin.
+    <br><br>
+    <a href="https://github.com/dodopayments/dodo-agent-plugin">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Dynamic Context Pruning</b> <img src="https://badgen.net/github/stars/Tarquinen/opencode-dynamic-context-pruning" height="14"/> - <i>Optimize token usage</i></summary>
   <blockquote>
     Plugin that optimises token usage by pruning obsolete tool outputs from conversation context.
     <br><br>
     <a href="https://github.com/Tarquinen/opencode-dynamic-context-pruning">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Ejentum</b> <img src="https://badgen.net/github/stars/ejentum/ejentum-mcp" height="14"/> - <i>MCP server with reasoning, code, anti-deception, and memory tools for AI agents</i></summary>
+  <blockquote>
+    MCP server with four tools (harness_reasoning, harness_code, harness_anti_deception, harness_memory) that AI agents can call on demand. Each tool returns a structured prompt the calling agent ingests before generating.
+    <br><br>
+    <a href="https://github.com/ejentum/ejentum-mcp">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
@@ -517,6 +535,24 @@ sync and targeted validation checks, and helps keep repo knowledge branch-local 
     Interactive terminal canvases (calendars, documents, flight booking) in tmux splits. Port of claude-canvas for OpenCode.
     <br><br>
     <a href="https://github.com/mailshieldai/opencode-canvas">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>OpenCode Chromium Browser Plugin</b> <img src="https://badgen.net/github/stars/DJOCKER-FACE/opencode-chromium-browser-plugin" height="14"/> - <i>Browser automation for Chromium browsers with a readable extension and native host</i></summary>
+  <blockquote>
+    OpenCode browser automation for Chromium-based browsers using a readable Manifest V3 extension, Node.js native messaging host, and OpenCode-native tools. Supports Chrome, Edge, Brave, Chromium, screenshots, CDP commands, DOM actions, downloads, console/network inspection, and controlled tab sessions.
+    <br><br>
+    <a href="https://github.com/DJOCKER-FACE/opencode-chromium-browser-plugin">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>OpenCode Ensemble</b> <img src="https://badgen.net/github/stars/hueyexe/opencode-ensemble" height="14"/> - <i>Parallel agent teams for OpenCode</i></summary>
+  <blockquote>
+    Coordinate parallel OpenCode agents with peer messaging, a shared task board, git worktree isolation, and a live dashboard.
+    <br><br>
+    <a href="https://github.com/hueyexe/opencode-ensemble">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
@@ -1612,6 +1648,15 @@ Also available for bat and Ghostty in the same repository.
     Session management tool for opencode to track and organise coding sessions.
     <br><br>
     <a href="https://github.com/malhashemi/opencode-sessions">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>OpenCode Sidebar</b> <img src="https://badgen.net/github/stars/arnavpisces/opencode-sidebar" height="14"/> - <i>Tmux sidebar for managing OpenCode sessions</i></summary>
+  <blockquote>
+    A tmux-backed sidebar launcher for OpenCode that keeps the session list, preview pane, and OpenCode TUI together in one workspace. It supports session recall, background sessions, search, project folders, deletion, and sound notifications.
+    <br><br>
+    <a href="https://github.com/arnavpisces/opencode-sidebar">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
