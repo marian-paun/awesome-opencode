@@ -779,6 +779,15 @@ startup.
 </details>
 
 <details>
+  <summary><b>Opencode Usage Monitor</b> <img src="https://badgen.net/github/stars/Mark1708/opencode-usage-monitor" height="14"/> - <i>Monitor OpenAI and Z.AI usage quotas in the TUI</i></summary>
+  <blockquote>
+    OpenCode sidebar plugin that displays API usage quotas for OpenAI and Z.AI providers with per-model breakdowns, spend tracking, and configurable refresh controls.
+    <br><br>
+    <a href="https://github.com/Mark1708/opencode-usage-monitor">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>Opencode Visualizer</b> <img src="https://badgen.net/github/stars/psinetron/opencode-visualiser" height="14"/> - <i>2D pixel-art office for AI agents</i></summary>
   <blockquote>
     Turning raw OpenCode terminal logs into cozy 2D pixel office chaos. Watch your agents work, idle, and celebrate success in a bustling virtual office.
