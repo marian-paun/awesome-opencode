@@ -197,6 +197,15 @@
 </details>
 
 <details>
+  <summary><b>Crawlberg</b> <img src="https://badgen.net/github/stars/xberg-io/plugins" height="14"/> - <i>Web crawling and scraping tools for opencode</i></summary>
+  <blockquote>
+    OpenCode plugin exposing crawlberg CLI tools for scraping pages, crawling sites, and mapping URLs to JSON or Markdown.
+    <br><br>
+    <a href="https://github.com/xberg-io/plugins">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>CrewBee</b> <img src="https://badgen.net/github/stars/CrewBeeLab/CrewBee" height="14"/> - <i>Task-specific Agent Teams for OpenCode</i></summary>
   <blockquote>
     CrewBee is an independent Agent Team framework for OpenCode. It lets users define reusable task/project-specific Agent Teams, project them into OpenCode agents, and switch between single-agent execution and multi-agent collaboration based on task complexity. It also includes built-in Team templates such as a Coding Team with review flow and completion criteria.
@@ -373,6 +382,15 @@ Key features:
 </details>
 
 <details>
+  <summary><b>HTML to Markdown</b> <img src="https://badgen.net/github/stars/xberg-io/plugins" height="14"/> - <i>Fast, lossless HTML to Markdown conversion</i></summary>
+  <blockquote>
+    OpenCode plugin exposing html-to-markdown CLI tools for converting HTML to clean Markdown with metadata, tables, and document structure.
+    <br><br>
+    <a href="https://github.com/xberg-io/plugins">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>kibi-opencode</b> <img src="https://badgen.net/github/stars/Looted/kibi" height="14"/> - <i>Repo-local, branch-scoped knowledge and traceability for OpenCode</i></summary>
   <blockquote>
     Plugin-first entry point into the Kibi stack for OpenCode users. It adds context-aware
@@ -400,6 +418,15 @@ sync and targeted validation checks, and helps keep repo knowledge branch-local 
 
     <br><br>
     <a href="https://github.com/xenitV1/lemma">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>liter-llm</b> <img src="https://badgen.net/github/stars/xberg-io/plugins" height="14"/> - <i>Universal LLM API client for 143 providers</i></summary>
+  <blockquote>
+    OpenCode plugin exposing liter-llm tools for chat, streaming, embeddings, and an OpenAI-compatible proxy across 143 providers.
+    <br><br>
+    <a href="https://github.com/xberg-io/plugins">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 
@@ -1157,6 +1184,15 @@ suggestions. All processing stays local by default — no data leaves the machin
 </details>
 
 <details>
+  <summary><b>Tree-sitter Language Pack</b> <img src="https://badgen.net/github/stars/xberg-io/plugins" height="14"/> - <i>Code intelligence for 300+ languages</i></summary>
+  <blockquote>
+    OpenCode plugin exposing tree-sitter-language-pack tools for parsing and extracting structure, imports, and symbols from 300+ languages.
+    <br><br>
+    <a href="https://github.com/xberg-io/plugins">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
   <summary><b>TypeUI</b> <img src="https://badgen.net/github/stars/bergside/typeui" height="14"/> - <i>Design systems, UI prompts, and layout variation guidance</i></summary>
   <blockquote>
     Open-source design layer for OpenCode that provides curated design skills, UI prompts, and layout variation guidance so agents can generate more consistent interfaces. Includes an <a href="https://www.typeui.sh/docs/guides/opencode">OpenCode setup guide</a>.
@@ -1231,6 +1267,15 @@ suggestions. All processing stays local by default — no data leaves the machin
     Automatically copies .opencode/memory/ from the main repository into new git worktrees on session init. Detects worktrees via the .git file, resolves the main repo, and syncs memory files only when the destination is empty — so it never overwrites your changes.
     <br><br>
     <a href="https://github.com/Edison-A-N/opencode-worktree-memory-sync">🔗 <b>View Repository</b></a>
+  </blockquote>
+</details>
+
+<details>
+  <summary><b>Xberg</b> <img src="https://badgen.net/github/stars/xberg-io/plugins" height="14"/> - <i>Local document extraction for 97+ formats</i></summary>
+  <blockquote>
+    OpenCode plugin exposing xberg CLI tools for document extraction, MIME detection, and supported-format discovery.
+    <br><br>
+    <a href="https://github.com/xberg-io/plugins">🔗 <b>View Repository</b></a>
   </blockquote>
 </details>
 

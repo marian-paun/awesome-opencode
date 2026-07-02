@@ -280,6 +280,26 @@
     "tags": []
   },
   {
+    "productId": "crawlberg",
+    "type": "plugins",
+    "displayName": "Crawlberg",
+    "repoUrl": "https://github.com/xberg-io/plugins",
+    "tagline": "Web crawling and scraping tools for opencode",
+    "description": "OpenCode plugin exposing crawlberg CLI tools for scraping pages, crawling sites, and mapping URLs to JSON or Markdown.",
+    "scope": [
+      "global",
+      "project"
+    ],
+    "tags": [
+      "crawling",
+      "scraping",
+      "markdown",
+      "cli"
+    ],
+    "homepageUrl": "https://www.npmjs.com/package/@xberg-io/opencode-crawlberg",
+    "installation": "Add the package to `opencode.json`:\n\n```json\n{\n  \"plugin\": [\"@xberg-io/opencode-crawlberg\"]\n}\n```\n\nRequires the `crawlberg` CLI.\n"
+  },
+  {
     "productId": "crewbee",
     "type": "plugins",
     "displayName": "CrewBee",
@@ -473,6 +493,26 @@
     "tags": []
   },
   {
+    "productId": "html-to-markdown",
+    "type": "plugins",
+    "displayName": "HTML to Markdown",
+    "repoUrl": "https://github.com/xberg-io/plugins",
+    "tagline": "Fast, lossless HTML to Markdown conversion",
+    "description": "OpenCode plugin exposing html-to-markdown CLI tools for converting HTML to clean Markdown with metadata, tables, and document structure.",
+    "scope": [
+      "global",
+      "project"
+    ],
+    "tags": [
+      "html",
+      "markdown",
+      "conversion",
+      "cli"
+    ],
+    "homepageUrl": "https://www.npmjs.com/package/@xberg-io/opencode-html-to-markdown",
+    "installation": "Add the package to `opencode.json`:\n\n```json\n{\n  \"plugin\": [\"@xberg-io/opencode-html-to-markdown\"]\n}\n```\n\nRequires the `html-to-markdown` CLI.\n"
+  },
+  {
     "productId": "kibi-opencode",
     "type": "plugins",
     "displayName": "kibi-opencode",
@@ -520,6 +560,26 @@
       "claude",
       "cursor"
     ]
+  },
+  {
+    "productId": "liter-llm",
+    "type": "plugins",
+    "displayName": "liter-llm",
+    "repoUrl": "https://github.com/xberg-io/plugins",
+    "tagline": "Universal LLM API client for 143 providers",
+    "description": "OpenCode plugin exposing liter-llm tools for chat, streaming, embeddings, and an OpenAI-compatible proxy across 143 providers.",
+    "scope": [
+      "global",
+      "project"
+    ],
+    "tags": [
+      "llm",
+      "openai",
+      "proxy",
+      "cli"
+    ],
+    "homepageUrl": "https://www.npmjs.com/package/@xberg-io/opencode-liter-llm",
+    "installation": "Add the package to `opencode.json`:\n\n```json\n{\n  \"plugin\": [\"@xberg-io/opencode-liter-llm\"]\n}\n```\n\nRequires the `liter-llm` CLI.\n"
   },
   {
     "productId": "magic-context",
@@ -1637,6 +1697,26 @@
     "tags": []
   },
   {
+    "productId": "tree-sitter-language-pack",
+    "type": "plugins",
+    "displayName": "Tree-sitter Language Pack",
+    "repoUrl": "https://github.com/xberg-io/plugins",
+    "tagline": "Code intelligence for 300+ languages",
+    "description": "OpenCode plugin exposing tree-sitter-language-pack tools for parsing and extracting structure, imports, and symbols from 300+ languages.",
+    "scope": [
+      "global",
+      "project"
+    ],
+    "tags": [
+      "tree-sitter",
+      "parsing",
+      "code",
+      "cli"
+    ],
+    "homepageUrl": "https://www.npmjs.com/package/@xberg-io/opencode-tree-sitter-language-pack",
+    "installation": "Add the package to `opencode.json`:\n\n```json\n{\n  \"plugin\": [\"@xberg-io/opencode-tree-sitter-language-pack\"]\n}\n```\n\nRequires the `tree-sitter-language-pack` CLI.\n"
+  },
+  {
     "productId": "typeui",
     "type": "plugins",
     "displayName": "TypeUI",
@@ -1740,6 +1820,26 @@
       "global"
     ],
     "tags": []
+  },
+  {
+    "productId": "xberg",
+    "type": "plugins",
+    "displayName": "Xberg",
+    "repoUrl": "https://github.com/xberg-io/plugins",
+    "tagline": "Local document extraction for 97+ formats",
+    "description": "OpenCode plugin exposing xberg CLI tools for document extraction, MIME detection, and supported-format discovery.",
+    "scope": [
+      "global",
+      "project"
+    ],
+    "tags": [
+      "documents",
+      "extraction",
+      "ocr",
+      "cli"
+    ],
+    "homepageUrl": "https://www.npmjs.com/package/@xberg-io/opencode-xberg",
+    "installation": "Add the package to `opencode.json`:\n\n```json\n{\n  \"plugin\": [\"@xberg-io/opencode-xberg\"]\n}\n```\n\nRequires the `xberg` CLI.\n"
   },
   {
     "productId": "xquik",
